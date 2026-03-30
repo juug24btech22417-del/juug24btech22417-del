@@ -12,3 +12,5 @@
 
 ⭐ *"Code. Create. Dominate."*
 
+
+![snake animation](https://your-username.github.io/your-repo/github-snake.svg)
