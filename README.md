@@ -13,4 +13,5 @@
 ⭐ *"Code. Create. Dominate."*
 
 
-![snake animation](https://raw.githubusercontent.com/juug24btech22417-del/<juug24btech22417-del>/output/github-snake.svg)
+![snake gif](https://github.com/juug24btech22417-del/juug24btech22417-del/blob/output/github-snake-dark.svg)
+
